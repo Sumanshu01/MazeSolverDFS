@@ -1,1 +1,2 @@
-# MazeSolverDFS
+# 🧩 MazeSolverDFS 🔍
+MazeSolverDFS is a C++ application that uses the Depth-First Search (DFS) algorithm to find the shortest path in a maze from the start ('S') to the end ('E'). The program takes a maze as input, where the maze is represented by a grid with walls ('#'), open paths ('.'), and special start ('S') and end ('E') points. It explores the maze recursively and backtracks when necessary to find a solution. The path taken is marked with '*' in the maze, and the result is displayed to the user.
